@@ -1,7 +1,7 @@
 # Command-Line-Program-for-Art-Gallery-Search
 ### Descriptions of all documents and requirements
 
-'lux.py' and 'luxdetails.py' composed two programs required for submission. The parameters required for these two command-line programs follows the input specification requirements of this assignment. Inside the file, we have included Error Handling that would capture the errors specified in pset requirements. We also submitted two modules that will help execute these two programs: 'filters_obj.py' and 'filters_detail.py'.
+'lux.py' and 'luxdetails.py' composed two programs required for submission. The parameters required for these two command-line programs follows the input specification requirements. Inside the file, we have included Error Handling that would capture the errors in command line. We also submitted two modules that will help execute these two programs: 'filters_obj.py' and 'filters_detail.py'.
 
 'test_lux.py' is a automated testing file which includes a list of command line/test cases we would like to run. To run this file, type 'python test_lux.py' in terminal and it will run automatically. The command lines executed upon call contains all the test cases we wanted to test. The output will be a coverage. file and htmlcov folder from coverage package. The test cases we put inside the test file included: objects that have no references, lots of references, agents with several nationalities, which also fits into purpose of boundary testing. Following these command line, we generated a test coverage report, which is named: 'coverage_index.html'. We consider these two files a combination of boundary tests and test automation. 
 
