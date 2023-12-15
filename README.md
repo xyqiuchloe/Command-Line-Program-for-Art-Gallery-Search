@@ -1,4 +1,6 @@
 # Command-Line-Program-for-Art-Gallery-Search
+## A command line search program written based on html and python. Search among yale gallery information and search for the right artpiece based on your input.
+
 ### Descriptions of all documents and requirements
 
 'lux.py' and 'luxdetails.py' composed two programs required for submission. The parameters required for these two command-line programs follows the input specification requirements. Inside the file, we have included Error Handling that would capture the errors in command line. We also submitted two modules that will help execute these two programs: 'filters_obj.py' and 'filters_detail.py'.
